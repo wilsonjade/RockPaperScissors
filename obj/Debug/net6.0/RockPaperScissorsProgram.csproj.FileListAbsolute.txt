@@ -1,0 +1,14 @@
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\bin\Debug\net6.0\RockPaperScissorsProgram.exe
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\bin\Debug\net6.0\RockPaperScissorsProgram.deps.json
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\bin\Debug\net6.0\RockPaperScissorsProgram.runtimeconfig.json
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\bin\Debug\net6.0\RockPaperScissorsProgram.dll
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\bin\Debug\net6.0\RockPaperScissorsProgram.pdb
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.AssemblyInfoInputs.cache
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.AssemblyInfo.cs
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.csproj.CoreCompileInputs.cache
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.dll
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\refint\RockPaperScissorsProgram.dll
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.pdb
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\RockPaperScissorsProgram.genruntimeconfig.cache
+C:\Users\jadex\source\repos\RockPaperScissorsProgram\obj\Debug\net6.0\ref\RockPaperScissorsProgram.dll
